@@ -1,7 +1,7 @@
 # USB-I2C-dongle
 
 This is the (signed) driver for the USB-I2C dongle from ams (now ScioSense). The driver is needed for Windows 7 and 8. Windows 10 does not need a driver. Linux/Unix/Mac do not need a driver.
-![usb-i2c-dongle](usb-i2c-dongle.jpg)
+![usb-i2c-dongle](usb-i2c-dongle.JPG)
 
 It is suitable to work with eval kits for ENS210
 ![eval_kit_ccs801](eval_kit_ccs801.jpg)
